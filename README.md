@@ -1,1 +1,2 @@
 # 20Qs_BST
+This program models a game of 20 questions using a binary search tree composed of linked nodes. Each non-leaf node contains a yes/no question and a left/right node for each respective answer. The game gets better the more you play because whenever the user reaches a leaf node, they are prompted to enter a new question that differentiates their answer from the game's guess to be saved permanently into the tree.
